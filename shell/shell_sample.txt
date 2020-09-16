@@ -1,0 +1,4 @@
+lol     4.00     0  USA
+kmk     3.75    10  KOREA
+pnu     5.50    20  PUSAN
+kim     1.50    30  0
